@@ -1,12 +1,12 @@
 {
-    "name": "AnggazyyDev",
-    "version": "9.0.0",
+    "name": "Vampire killer",
+    "version": "7.0.0",
     "description": "Private WhatsApp bot",
     "main": "index.js",
     "scripts": {
         "start": "node server.js"
     },
-    "author": "Vamp Ent",
+    "author": "Giddy Tennor",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "github:amiruldev20/baileys",
